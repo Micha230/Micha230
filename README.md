@@ -1,10 +1,11 @@
 [![MasterHead](https://www.communicationcrafts.com/wp-content/uploads/2022/02/CC-blog-How-to-hire-a-frontend-developer_main-banner.jpg)](http://Micha230.io)
 <h1 align="center">Hi 👋, I'm Michelle Chorny</h1>
 <h3 align="center">Computer science 3rd year student</h3>
+
+
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/1*vJjJ3Mdok6Rvxx85IIRqBQ.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=micha230&label=Profile%20views&color=0e75b6&style=flat" alt="micha230" /> </p>
 
 - 🔭 I’m currently working on **frontend course project**
 
