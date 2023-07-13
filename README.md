@@ -7,9 +7,7 @@
 
 
 
-- 🔭 I’m currently working on **frontend course project**
-
-- 🌱 I’m currently learning **Javascript**
+- 🔭 I’m currently working on a MERN stack project
 
 - 📫 How to reach me **michelli368@gmail.com**
 
