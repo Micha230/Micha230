@@ -1,6 +1,6 @@
 [![MasterHead](https://www.communicationcrafts.com/wp-content/uploads/2022/02/CC-blog-How-to-hire-a-frontend-developer_main-banner.jpg)](http://Micha230.io)
 <h1 align="center">Hi 👋, I'm Michelle Chorny</h1>
-<h3 align="center">Computer science 3rd year student</h3>
+<h3 align="center">Computer science (B.Sc) graduate/h3>
 
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/1*vJjJ3Mdok6Rvxx85IIRqBQ.gif">
